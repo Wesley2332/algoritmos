@@ -1,0 +1,16 @@
+TROCAR UMA LAMPADA
+passo 1 desligar a lamapada
+passo 2 girar a lampada no sentido anti horario no soquete
+passo 3 retirar a lampada 
+passo 4 colocar a lampada nova no lugar da lampada que foi retirada
+passo 5 girar a lampada nova em sentido horario no soquete
+passo 6 ligar a lampada para testar se esta funcionando
+
+VIR ATE O SENAC
+passo 1 sair de casa
+passo 2 ir ate a parada
+passo 3 esperar o onibus
+passo 4 entrar no onibus
+passo 5 aguardar ate o onibus chegar na unisinos
+passo 6 sair do onibus na parada de frente a unisinos
+passo 7 ir ate o senac 
