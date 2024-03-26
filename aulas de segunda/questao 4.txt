@@ -1,0 +1,47 @@
+questao 1
+
+var a = 15
+var b = 5 
+if ((a>10 && a<20) || b ==5)
+print("true")
+else
+print("false")
+ true
+
+questao 2
+var a = 15
+var b = 5 
+if ((a>10 ) || b ==5)
+print("true")
+else
+print("false")
+ true
+
+questao 3
+var a = 15
+var b = 5
+var c = 10
+if ((a>10 && c==10) || b==5)
+print("true")
+else
+print("false")
+true
+
+questao 4
+a = 15
+b = 5 
+c = 3 
+if ((a>10 && b==5) || c!=10)
+print ("true")
+else
+print("false")
+true
+
+questao 5
+var a = 15
+var b = 15
+var c = 12
+var d = 18
+if ((a>10 || b ==5 ) && c !=10 && d != 20)
+print ("true")
+print ("false")

@@ -1,0 +1,27 @@
+[?2004l
+5 = 3 ? false
+5 != 3 ? true
+5 > 3 ? true
+5 < 3 ? false
+5 <= 3 ? false
+5 >= 3 ? false
+[?2004h
+
+[?2004l
+5 = 5 ? true
+5 != 5 ? false
+5 > 5 ? false
+5 < 5 ? false
+5 <= 5 ? false
+5 >= 5 ? true
+[?2004h
+
+[?2004l
+5 = 8 ? false
+5 != 8 ? true
+5 > 8 ? false
+5 < 8 ? true
+5 <= 8 ? true
+5 >= 8 ? true
+[?2004h
+

@@ -1,0 +1,20 @@
+[?2004l
+true
+false
+false
+false
+ cao
+false
+false
+[?2004h
+
+[?2004l
+true
+true
+true
+false
+gato
+gato
+gato
+[?2004h
+
